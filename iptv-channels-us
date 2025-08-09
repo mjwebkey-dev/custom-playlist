@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
-http://cord-cutter.net:8080/hq3y4G/234247/120798
-
-#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
+#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
 
 #EXTINF:-1 tvg-id="nbcwsmw.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
@@ -15,22 +12,14 @@ http://cord-cutter.net:8080/hq3y4G/234247/121164
 #EXTINF:-1 tvg-id="abcwkrn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
-
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1 " group-title="USA",FOX Sports 1
 http://cord-cutter.net:8080/hq3y4G/234247/46792
-
 
 #EXTINF:-1 tvg-id="court.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" tvg-name="Court TV" group-title="USA",Court TV
 http://cord-cutter.net:8080/hq3y4G/234247/21092
 
 #EXTINF:-1 tvg-id="poptv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" tvg-name="Pop" group-title="USA",Pop
 http://cord-cutter.net:8080/hq3y4G/234247/20976
-
-#EXTINF:-1 tvg-id="unimas69wami.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png" tvg-name="UniMas  " group-title="USA",UniMas
-http://cord-cutter.net:8080/hq3y4G/234247/57969
-
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" tvg-name="Univision Eastern Feed" group-title="USA",Univision Eastern Feed
-http://cord-cutter.net:8080/hq3y4G/234247/46692
 
 #EXTINF:-1 tvg-id="aande.us" tvg-logo="https://en.wikipedia.org/wiki/A%26E_%28TV_network%29#/media/File:A&E_Network_logo.svg" tvg-name="A&E" group-title="USA",A&E
 http://cord-cutter.net:8080/hq3y4G/234247/59056
@@ -368,7 +357,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/46688
 #EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-name="TNT Eastern Feed" group-title="USA",TNT Eastern Feed
 http://cord-cutter.net:8080/hq3y4G/234247/10455
 
-#EXTINF:-1 tvg-id="travel.us" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" tvg-name="Travel US East" group-title="USA",Travel US East
+#EXTINF:-1 tvg-id="travel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" tvg-name="Travel US East" group-title="USA",Travel US East
 http://cord-cutter.net:8080/hq3y4G/234247/9315
 
 #EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" tvg-name="truTV USA Eastern" group-title="USA",truTV USA Eastern
@@ -410,14 +399,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/9237
 #EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" tvg-name="World Fishing Network (F)" group-title="USA",World Fishing Network (F)
 http://cord-cutter.net:8080/hq3y4G/234247/10477
 
-#EXTINF:-1 tvg-id="tudnu.us" tvg-logo="" tvg-name="TUDN " group-title="USA",TUDN
-http://cord-cutter.net:8080/hq3y4G/234247/82241
-
 #EXTINF:-1 tvg-id="gacliving.us" tvg-logo="" tvg-name="GAC Family " group-title="USA",GAC Family
 http://cord-cutter.net:8080/hq3y4G/234247/104877
-
-#EXTINF:-1 tvg-id="univisiontlnovelas.us" tvg-logo="" tvg-name="Latin Univision " group-title="USA",Latin Univision
-http://cord-cutter.net:8080/hq3y4G/234247/108248
 
 #EXTINF:-1 tvg-id="qvc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/1200px-QVC_logo_2019.svg.png" tvg-name="QVC" group-title="USA",QVC
 http://cord-cutter.net:8080/hq3y4G/234247/117707
@@ -563,13 +546,11 @@ http://cord-cutter.net:8080/hq3y4G/234247/21012
 #EXTINF:-1 tvg-id="retroplex.us" tvg-logo="" tvg-name="RetroPlex (East) " group-title="MOVIE NETWORKS",RetroPlex (East)
 http://cord-cutter.net:8080/hq3y4G/234247/66379
 
-
 #EXTINF:-1 tvg-id="showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg" tvg-name="Showtime Eastern Feed" group-title="MOVIE NETWORKS",Showtime Eastern Feed
 http://cord-cutter.net:8080/hq3y4G/234247/46214
 
 #EXTINF:-1 tvg-id="showtime2.us" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" tvg-name="Showtime 2 Eastern" group-title="MOVIE NETWORKS",Showtime 2 Eastern
 http://cord-cutter.net:8080/hq3y4G/234247/13219
-
 
 #EXTINF:-1 tvg-id="showtimeextreme.us" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" tvg-name="Showtime Extreme (East) (SP)" group-title="MOVIE NETWORKS",Showtime Extreme (East) (SP)
 http://cord-cutter.net:8080/hq3y4G/234247/13220
