@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="20465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
-#EXTINF:-1 tvg-id="28659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
+#EXTINF:-1 tvg-id="28659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville" group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
 
 #EXTINF:-1 tvg-id="foxwztv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
@@ -27,13 +27,13 @@ http://cord-cutter.net:8080/hq3y4G/234247/59056
 #EXTINF:-1 tvg-id="aande.us" tvg-logo="https://juicetv.app/channellogo/ae.png" tvg-name="A&E US Eastern Feed" group-title="USA",A&E US Eastern Feed
 http://cord-cutter.net:8080/hq3y4G/234247/2201
 
-#EXTINF:-1 tvg-id="ACCNetwork.us tvg-logo="https://en.wikipedia.org/wiki/File:ACC_Network_ESPN_logo.svg" tvg-name="ACC Network HD" group-title="USA", ACC Network
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://en.wikipedia.org/wiki/File:ACC_Network_ESPN_logo.svg" tvg-name="ACC Network HD" group-title="USA", ACC Network
 https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="adultswim.us" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" tvg-name="CA Adult Swim (R)" group-title="USA",CA Adult Swim (R)
 http://cord-cutter.net:8080/hq3y4G/234247/11644
 
-#EXTINF:-1 tvg-id="altitudesport.us" tvg-logo="" tvg-name="Altitude Sports HD " group-title="USA",Altitude Sports HD
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-logo=" tvg-name="Altitude Sports HD" group-title="USA",Altitude Sports HD
 http://cord-cutter.net:8080/hq3y4G/234247/79545
 
 #EXTINF:-1 tvg-id="amc-eastern-feed" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" tvg-name="AMC Eastern Feed" group-title="USA",AMC Eastern Feed
@@ -42,7 +42,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/18925
 #EXTINF:-1 tvg-id="american-heroes-channel" tvg-logo="" tvg-name="American Heroes Channel " group-title="USA",American Heroes Channel
 http://cord-cutter.net:8080/hq3y4G/234247/10456
 
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" tvg-name="Animal Planet US East" group-title="USA",Animal Planet US East
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" tvg-name="Animal Planet US East" group-title="USA",Animal Planet US East
 http://cord-cutter.net:8080/hq3y4G/234247/17870
 
 #EXTINF:-1 tvg-id="antennatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" tvg-name="Antenna TV " group-title="USA",Antenna TV
@@ -51,11 +51,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/20180
 #EXTINF:-1 tvg-id="aspiretv.us" tvg-logo="" tvg-name="Aspire (A)" group-title="USA",Aspire (A)
 http://cord-cutter.net:8080/hq3y4G/234247/21927
 
-#EXTINF:-1 tvg-id="axstv.us" tvg-logo="" tvg-name="AXS TV " group-title="USA",AXS TV
+#EXTINF:-1 tvg-id="axstv.us" tvg-logo="" tvg-name="AXS TV" group-title="USA",AXS TV
 http://cord-cutter.net:8080/hq3y4G/234247/48324
-
-#EXTINF:-1 tvg-id="babyfirst.us" tvg-logo="" tvg-name="Baby First HD" group-title="USA",Baby First HD
-http://cord-cutter.net:8080/hq3y4G/234247/58765
 
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" tvg-name="BBC America East" group-title="USA",BBC America East
 http://cord-cutter.net:8080/hq3y4G/234247/20194
