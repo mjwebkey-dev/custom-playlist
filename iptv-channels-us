@@ -1,9 +1,9 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/tvtv.us/tvtv.us.channels.xml"
 
-#EXTINF:-1 tvg-id="abcwkrn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
+#EXTINF:-1 tvg-id="20465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
-#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
+#EXTINF:-1 tvg-id="28659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
 
 #EXTINF:-1 tvg-id="foxwztv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
@@ -12,7 +12,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/121164
 #EXTINF:-1 tvg-id="nbcwsmw.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120799
 
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1 " group-title="USA",FOX Sports 1
+#EXTINF:-1 tvg-id="foxsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1 " group-title="USA",FOX Sports 1
 http://cord-cutter.net:8080/hq3y4G/234247/46792
 
 #EXTINF:-1 tvg-id="court.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" tvg-name="Court TV" group-title="USA",Court TV
@@ -27,8 +27,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/59056
 #EXTINF:-1 tvg-id="aande.us" tvg-logo="https://juicetv.app/channellogo/ae.png" tvg-name="A&E US Eastern Feed" group-title="USA",A&E US Eastern Feed
 http://cord-cutter.net:8080/hq3y4G/234247/2201
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" tvg-name="ABC" group-title="USA",ABC
-http://cord-cutter.net:8080/hq3y4G/234247/22990
+#EXTINF:-1 tvg-id="ACCNetwork.us tvg-logo="https://en.wikipedia.org/wiki/File:ACC_Network_ESPN_logo.svg" tvg-name="ACC Network HD" group-title="USA", ACC Network
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="adultswim.us" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" tvg-name="CA Adult Swim (R)" group-title="USA",CA Adult Swim (R)
 http://cord-cutter.net:8080/hq3y4G/234247/11644
@@ -36,10 +36,10 @@ http://cord-cutter.net:8080/hq3y4G/234247/11644
 #EXTINF:-1 tvg-id="altitudesport.us" tvg-logo="" tvg-name="Altitude Sports HD " group-title="USA",Altitude Sports HD
 http://cord-cutter.net:8080/hq3y4G/234247/79545
 
-#EXTINF:-1 tvg-id="amc.us" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" tvg-name="AMC Eastern Feed" group-title="USA",AMC Eastern Feed
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" tvg-name="AMC Eastern Feed" group-title="USA",AMC Eastern Feed
 http://cord-cutter.net:8080/hq3y4G/234247/18925
 
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-logo="" tvg-name="American Heroes Channel " group-title="USA",American Heroes Channel
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-logo="" tvg-name="American Heroes Channel " group-title="USA",American Heroes Channel
 http://cord-cutter.net:8080/hq3y4G/234247/10456
 
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" tvg-name="Animal Planet US East" group-title="USA",Animal Planet US East
