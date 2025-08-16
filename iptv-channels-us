@@ -6,10 +6,10 @@ http://cord-cutter.net:8080/hq3y4G/234247/120798
 #EXTINF:-1 tvg-id="nbcwsmw.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120799
 
-#EXTINF:-1 tvg-id="foxwztv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
+#EXTINF:-1 tvg-id="fox-wztv-nashville-tn-hd/6727" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
 http://cord-cutter.net:8080/hq3y4G/234247/121164
 
-#EXTINF:-1 tvg-id="abcwkrn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
+#EXTINF:-1 tvg-id="20465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1 " group-title="USA",FOX Sports 1
@@ -167,9 +167,6 @@ http://cord-cutter.net:8080/hq3y4G/234247/46699
 
 #EXTINF:-1 tvg-id="fyi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" tvg-name="FYI USA Eastern" group-title="USA",FYI USA Eastern
 http://cord-cutter.net:8080/hq3y4G/234247/9240
-
-#EXTINF:-1 tvg-id="galavision.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png" tvg-name="Latin Galavision" group-title="USA",Latin Galavision
-http://cord-cutter.net:8080/hq3y4G/234247/58770
 
 #EXTINF:-1 tvg-id="gettv.us" tvg-logo="https://logodix.com/logo/1826254.png" tvg-name="GetTV " group-title="USA",GetTV
 http://cord-cutter.net:8080/hq3y4G/234247/18366
