@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/tvpassport.com/tvpassport.com.channels.xml"
 
-#EXTINF:-1 tvg-id="cbs-wtvf-nashville-tn-hd/6363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
+#EXTINF:-1 tvg-id="abc-wkrn-nashville-tn/1886" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
 #EXTINF:-1 tvg-id="cbs-wtvf-nashville-tn-hd/6363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville" group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
