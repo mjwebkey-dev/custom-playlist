@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/tvpassport.com/tvpassport.com.channels.xml"
 
-#EXTINF:-1 tvg-id="abc-wkrn-nashville-tn/1886" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
+#EXTINF:-1 tvg-id="abc-wkrn-nashville-tn/1886" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
-#EXTINF:-1 tvg-id="cbs-wtvf-nashville-tn-hd/6363" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_Eye_%28Didot%29.svg" tvg-name="CBS (WTVF) Nashville" group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
+#EXTINF:-1 tvg-id="cbs-wtvf-nashville-tn-hd/6363" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10098_h15_ac.png" tvg-name="CBS (WTVF) Nashville" group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
 
-#EXTINF:-1 tvg-id="fox-wztv-nashville-tn-hd/6727" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
+#EXTINF:-1 tvg-id="fox-wztv-nashville-tn-hd/6727" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10212_h15_ab.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
 http://cord-cutter.net:8080/hq3y4G/234247/121164
 
-#EXTINF:-1 tvg-id="nbc-wsmv-nashville-tn-hd/6571" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
+#EXTINF:-1 tvg-id="nbc-wsmv-nashville-tn-hd/6571" tvg-logo="" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120799
 
-#EXTINF:-1 tvg-id="foxsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1" group-title="USA",FOX Sports 1
+#EXTINF:-1 tvg-id="fox-sports-1-hd/11137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1" group-title="USA",FOX Sports 1
 http://cord-cutter.net:8080/hq3y4G/234247/46792
 
 #EXTINF:-1 tvg-id="court.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" tvg-name="Court TV" group-title="USA",Court TV
