@@ -12,9 +12,6 @@ http://cord-cutter.net:8080/hq3y4G/234247/121164
 #EXTINF:-1 tvg-id="20465" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
 http://cord-cutter.net:8080/hq3y4G/234247/120860
 
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1 " group-title="USA",FOX Sports 1
-http://cord-cutter.net:8080/hq3y4G/234247/46792
-
 #EXTINF:-1 tvg-id="foxsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1" group-title="USA",FOX Sports 1
 http://cord-cutter.net:8080/hq3y4G/234247/46792
 
