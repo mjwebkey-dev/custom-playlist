@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mjwebkey-dev/custom-playlist/refs/heads/main/channels_guide.xml"
 
-#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
+#EXTINF:-1 tvg-id="abc-wkrn-nashville-tn-hd/5731" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
 
 #EXTINF:-1 tvg-id="nbcwsmw.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
