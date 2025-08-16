@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/tvpassport.com/tvpassport.com.channels.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mjwebkey-dev/custom-playlist/refs/heads/main/channels_guide.xml"
 
 #EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
