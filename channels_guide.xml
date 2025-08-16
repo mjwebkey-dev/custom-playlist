@@ -1,1 +1,7 @@
-<channel site="tvpassport.com" lang="en" xmltv_id="WZTVDT1.us" site_id="fox-wztv-nashville-tn/1890">FOX (WZTV) Nashville, TN</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WKRNDT1.us" site_id="abc-wkrn-nashville-tn-hd/5731">ABC (WKRN) Nashville, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WTVFDT1.us" site_id="cbs-wtvf-nashville-tn-hd/6363">CBS (WTVF) Nashville, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WSMVDT1.us" site_id="nbc-wsmv-nashville-tn-hd/6571">NBC (WSMV) Nashville, TN HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WZTVDT1.us" site_id="fox-wztv-nashville-tn/1890">FOX (WZTV) Nashville, TN</channel>
+</channels>
