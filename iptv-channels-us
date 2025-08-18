@@ -498,7 +498,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/12744
 #EXTINF:-1 tvg-id="epix2.us" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" tvg-name="EPIX2 (East)" group-title="MOVIE NETWORKS",EPIX2 (East)
 http://cord-cutter.net:8080/hq3y4G/234247/12730
 
-#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" tvg-name="HBO Eastern Feed" group-title="MOVIE NETWORKS",HBO
+#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" tvg-name="HBO Eastern Feed" group-title="MOVIE NETWORKS",HBO
 http://cord-cutter.net:8080/hq3y4G/234247/9264
 
 #EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" tvg-name="HBO 2 Eastern Feed" group-title="MOVIE NETWORKS",HBO 2 Eastern Feed
@@ -506,9 +506,6 @@ http://cord-cutter.net:8080/hq3y4G/234247/9816
 
 #EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" tvg-name="HBO Comedy HD East" group-title="MOVIE NETWORKS",HBO Comedy HD East
 http://cord-cutter.net:8080/hq3y4G/234247/17773
-
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-name="HBO Family Eastern Feed" group-title="MOVIE NETWORKS",HBO Family Eastern Feed
-http://cord-cutter.net:8080/hq3y4G/234247/17772
 
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://logodix.com/logo/1111252.png" tvg-name="HBO Signature (HBO 3) Eastern" group-title="MOVIE NETWORKS",HBO Signature (HBO 3) Eastern
 http://cord-cutter.net:8080/hq3y4G/234247/9266
@@ -528,7 +525,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/13480
 #EXTINF:-1 tvg-id="movieplex.us" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" tvg-name="MoviePlex (East)" group-title="MOVIE NETWORKS",MoviePlex (East)
 http://cord-cutter.net:8080/hq3y4G/234247/1829
 
-#EXTINF:-1 tvg-id="outermax.us" tvg-logo="" tvg-name="Cinemax Outermax (X)" group-title="MOVIE NETWORKS",Cinemax Outermax (X)
+#EXTINF:-1 tvg-id="outermax.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25622_h15_ab.png" tvg-name="Cinemax Outermax (X)" group-title="MOVIE NETWORKS",Cinemax Outermax (X)
 http://cord-cutter.net:8080/hq3y4G/234247/21012
 
 #EXTINF:-1 tvg-id="retroplex.us" tvg-logo="" tvg-name="RetroPlex (East) " group-title="MOVIE NETWORKS",RetroPlex (East)
