@@ -501,7 +501,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/12730
 #EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" tvg-name="HBO Eastern Feed" group-title="MOVIE NETWORKS",HBO
 http://cord-cutter.net:8080/hq3y4G/234247/9264
 
-#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" tvg-name="HBO 2 Eastern Feed" group-title="MOVIE NETWORKS",HBO 2 Eastern Feed
+#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" tvg-name="HBO 2 Eastern Feed" group-title="MOVIE NETWORKS",HBO 2 Eastern Feed
 http://cord-cutter.net:8080/hq3y4G/234247/9816
 
 #EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" tvg-name="HBO Comedy HD East" group-title="MOVIE NETWORKS",HBO Comedy HD East
