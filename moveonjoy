@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+
 #EXTINF:-1 tvg-id="WOLODT1.us",ABC 25 Columbia
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us",ACCN (720p)
