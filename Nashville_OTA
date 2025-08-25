@@ -1,0 +1,85 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" refresh="1440"
+
+# --- WKRN (2.x) -------------------------------------------------------------
+#EXTINF:-1 tvg-id="ABC.(WKRN).Nashville,.TN.us" tvg-name="WKRN ABC 2.1" tvg-chno="2.1" group-title="Nashville OTA",WKRN ABC
+http://YOUR/STREAM/wkrn.m3u8
+#EXTINF:-1 tvg-id="Ion.Mystery.us" tvg-name="Ion Mystery 2.2" tvg-chno="2.2" group-title="Nashville OTA",Ion Mystery
+http://YOUR/STREAM/wkrn-2-2.m3u8
+#EXTINF:-1 tvg-id="Defy.TV.us" tvg-name="Defy TV 2.3" tvg-chno="2.3" group-title="Nashville OTA",Defy TV
+http://YOUR/STREAM/wkrn-2-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="365BLK 2.4" tvg-chno="2.4" group-title="Nashville OTA",365BLK   # no EPG id
+http://YOUR/STREAM/wkrn-2-4.m3u8
+
+# --- WSMV (4.x) -------------------------------------------------------------
+#EXTINF:-1 tvg-id="NBC.(WSMV).Nashville,.TN.us" tvg-name="WSMV NBC 4.1" tvg-chno="4.1" group-title="Nashville OTA",WSMV NBC
+http://YOUR/STREAM/wsmv.m3u8
+#EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="Cozi TV 4.3" tvg-chno="4.3" group-title="Nashville OTA",Cozi TV
+http://YOUR/STREAM/wsmv-4-3.m3u8
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen 4.4" tvg-chno="4.4" group-title="Nashville OTA",Oxygen
+http://YOUR/STREAM/wsmv-4-4.m3u8
+#EXTINF:-1 tvg-id="Get.TV.us" tvg-name="getTV 4.5" tvg-chno="4.5" group-title="Nashville OTA",getTV
+http://YOUR/STREAM/wsmv-4-5.m3u8
+
+# --- WTVF (5.x) -------------------------------------------------------------
+#EXTINF:-1 tvg-id="CBS.(WTVF).Nashville,.TN.us" tvg-name="WTVF CBS 5.1" tvg-chno="5.1" group-title="Nashville OTA",WTVF CBS
+http://YOUR/STREAM/wtvf.m3u8
+#EXTINF:-1 tvg-id="WTVF-DT2.Nashville,.TN.us" tvg-name="NewsChannel 5+ (5.2)" tvg-chno="5.2" group-title="Nashville OTA",NewsChannel 5+
+http://YOUR/STREAM/wtvf-5-2.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us" tvg-name="Bounce 5.3" tvg-chno="5.3" group-title="Nashville OTA",Bounce
+http://YOUR/STREAM/wtvf-5-3.m3u8
+
+# --- WNPT (8.x) -------------------------------------------------------------
+#EXTINF:-1 tvg-id="PBS.(WNPT).Nashville,.TN.us" tvg-name="WNPT PBS 8.1" tvg-chno="8.1" group-title="Nashville OTA",WNPT PBS
+http://YOUR/STREAM/wnpt.m3u8
+#EXTINF:-1 tvg-id="World.Channel.us" tvg-name="World 8.2" tvg-chno="8.2" group-title="Nashville OTA",World
+http://YOUR/STREAM/wnpt-8-2.m3u8
+#EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="PBS Kids 8.3" tvg-chno="8.3" group-title="Nashville OTA",PBS Kids
+http://YOUR/STREAM/wnpt-8-3.m3u8
+#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="Create 8.4" tvg-chno="8.4" group-title="Nashville OTA",Create
+http://YOUR/STREAM/wnpt-8-4.m3u8
+
+# --- WZTV (17.x) ------------------------------------------------------------
+#EXTINF:-1 tvg-id="FOX.(WZTV).Nashville,.TN.us" tvg-name="WZTV FOX 17.1" tvg-chno="17.1" group-title="Nashville OTA",WZTV FOX
+http://YOUR/STREAM/wztv.m3u8
+#EXTINF:-1 tvg-id="CW.(WZTV-DT2).Nashville,.TN.us" tvg-name="CW 17.2" tvg-chno="17.2" group-title="Nashville OTA",CW
+http://YOUR/STREAM/wztv-17-2.m3u8
+#EXTINF:-1 tvg-id="Antenna.TV.us" tvg-name="Antenna TV 17.3" tvg-chno="17.3" group-title="Nashville OTA",Antenna TV
+http://YOUR/STREAM/wztv-17-3.m3u8
+#EXTINF:-1 tvg-id="Charge.TV.us" tvg-name="Charge! 17.4" tvg-chno="17.4" group-title="Nashville OTA",Charge!
+http://YOUR/STREAM/wztv-17-4.m3u8
+
+# --- WUXP (30.x) ------------------------------------------------------------
+#EXTINF:-1 tvg-id="MNT.(WUXP).Nashville,.TN.us" tvg-name="WUXP MyN 30.1" tvg-chno="30.1" group-title="Nashville OTA",WUXP MyNetworkTV
+http://YOUR/STREAM/wuxp.m3u8
+#EXTINF:-1 tvg-id="Get.TV.us" tvg-name="getTV 30.2" tvg-chno="30.2" group-title="Nashville OTA",getTV
+http://YOUR/STREAM/wuxp-30-2.m3u8
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet 30.3" tvg-chno="30.3" group-title="Nashville OTA",Comet
+http://YOUR/STREAM/wuxp-30-3.m3u8
+
+# --- WNPX (28.x – Ion) ------------------------------------------------------
+#EXTINF:-1 tvg-id="ION.TV.East.us" tvg-name="ION 28.1" tvg-chno="28.1" group-title="Nashville OTA",ION
+http://YOUR/STREAM/wnpx.m3u8
+#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV 28.2" tvg-chno="28.2" group-title="Nashville OTA",Court TV
+http://YOUR/STREAM/wnpx-28-2.m3u8
+#EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="Grit 28.3" tvg-chno="28.3" group-title="Nashville OTA",Grit
+http://YOUR/STREAM/wnpx-28-3.m3u8
+#EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="Laff 28.4" tvg-chno="28.4" group-title="Nashville OTA",Laff
+http://YOUR/STREAM/wnpx-28-4.m3u8
+#EXTINF:-1 tvg-id="ION.Plus.TV.us" tvg-name="ION Plus 28.5" tvg-chno="28.5" group-title="Nashville OTA",ION Plus
+http://YOUR/STREAM/wnpx-28-5.m3u8
+
+# --- WJFB (44.x – Weigel) ---------------------------------------------------
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV 44.1" tvg-chno="44.1" group-title="Nashville OTA",MeTV
+http://YOUR/STREAM/wjfb.m3u8
+#EXTINF:-1 tvg-id="Heroes.and.Icons.H.and.I.us" tvg-name="H&I 44.2" tvg-chno="44.2" group-title="Nashville OTA",Heroes & Icons
+http://YOUR/STREAM/wjfb-44-2.m3u8
+#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV 44.3" tvg-chno="44.3" group-title="Nashville OTA",Start TV
+http://YOUR/STREAM/wjfb-44-3.m3u8
+#EXTINF:-1 tvg-id="Catchy.Comedy.us" tvg-name="Catchy Comedy 44.4" tvg-chno="44.4" group-title="Nashville OTA",Catchy Comedy
+http://YOUR/STREAM/wjfb-44-4.m3u8
+#EXTINF:-1 tvg-id="Movies!.us" tvg-name="Movies! 44.5" tvg-chno="44.5" group-title="Nashville OTA",Movies!
+http://YOUR/STREAM/wjfb-44-5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Story 44.7" tvg-chno="44.7" group-title="Nashville OTA",Story TV   # no EPG id
+http://YOUR/STREAM/wjfb-44-7.m3u8
+#EXTINF:-1 tvg-id="MeTV.Toons.us" tvg-name="MeTV Toons 44.8" tvg-chno="44.8" group-title="Nashville OTA",MeTV Toons
+http://YOUR/STREAM/wjfb-44-8.m3u8
