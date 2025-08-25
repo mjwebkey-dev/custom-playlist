@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" refresh="1440"
 
 # --- WKRN (2.x) -------------------------------------------------------------
-#EXTINF:-1 tvg-id="ABC.(WKRN).Nashville,.TN.us" tvg-name="WKRN ABC 2.1" tvg-chno="2.1" group-title="Nashville OTA",WKRN ABC
-http://YOUR/STREAM/wkrn.m3u8
+#EXTINF:-1 tvg-id="ABC.(WKRN).Nashville,.TN.us" tvg-name="WKRN ABC 2.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-chno="2.1" group-title="Nashville OTA",WKRN ABC
+http://cord-cutter.net:8080/hq3y4G/234247/120860
 #EXTINF:-1 tvg-id="Ion.Mystery.us" tvg-name="Ion Mystery 2.2" tvg-chno="2.2" group-title="Nashville OTA",Ion Mystery
 http://YOUR/STREAM/wkrn-2-2.m3u8
 #EXTINF:-1 tvg-id="Defy.TV.us" tvg-name="Defy TV 2.3" tvg-chno="2.3" group-title="Nashville OTA",Defy TV
@@ -11,8 +11,8 @@ http://YOUR/STREAM/wkrn-2-3.m3u8
 http://YOUR/STREAM/wkrn-2-4.m3u8
 
 # --- WSMV (4.x) -------------------------------------------------------------
-#EXTINF:-1 tvg-id="NBC.(WSMV).Nashville,.TN.us" tvg-name="WSMV NBC 4.1" tvg-chno="4.1" group-title="Nashville OTA",WSMV NBC
-http://YOUR/STREAM/wsmv.m3u8
+#EXTINF:-1 tvg-id="NBC.(WSMV).Nashville,.TN.us" tvg-name="WSMV NBC 4.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png tvg-chno="4.1" group-title="Nashville OTA",WSMV NBC
+http://cord-cutter.net:8080/hq3y4G/234247/120799
 #EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="Cozi TV 4.3" tvg-chno="4.3" group-title="Nashville OTA",Cozi TV
 http://YOUR/STREAM/wsmv-4-3.m3u8
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen 4.4" tvg-chno="4.4" group-title="Nashville OTA",Oxygen
@@ -21,8 +21,8 @@ http://YOUR/STREAM/wsmv-4-4.m3u8
 http://YOUR/STREAM/wsmv-4-5.m3u8
 
 # --- WTVF (5.x) -------------------------------------------------------------
-#EXTINF:-1 tvg-id="CBS.(WTVF).Nashville,.TN.us" tvg-name="WTVF CBS 5.1" tvg-chno="5.1" group-title="Nashville OTA",WTVF CBS
-http://YOUR/STREAM/wtvf.m3u8
+#EXTINF:-1 tvg-id="CBS.(WTVF).Nashville,.TN.us" tvg-name="WTVF CBS 5.1" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-chno="5.1" group-title="Nashville OTA",WTVF CBS
+http://cord-cutter.net:8080/hq3y4G/234247/120798
 #EXTINF:-1 tvg-id="WTVF-DT2.Nashville,.TN.us" tvg-name="NewsChannel 5+ (5.2)" tvg-chno="5.2" group-title="Nashville OTA",NewsChannel 5+
 http://YOUR/STREAM/wtvf-5-2.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us" tvg-name="Bounce 5.3" tvg-chno="5.3" group-title="Nashville OTA",Bounce
@@ -39,8 +39,8 @@ http://YOUR/STREAM/wnpt-8-3.m3u8
 http://YOUR/STREAM/wnpt-8-4.m3u8
 
 # --- WZTV (17.x) ------------------------------------------------------------
-#EXTINF:-1 tvg-id="FOX.(WZTV).Nashville,.TN.us" tvg-name="WZTV FOX 17.1" tvg-chno="17.1" group-title="Nashville OTA",WZTV FOX
-http://YOUR/STREAM/wztv.m3u8
+#EXTINF:-1 tvg-id="FOX.(WZTV).Nashville,.TN.us" tvg-name="WZTV FOX 17.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-chno="17.1" group-title="Nashville OTA",WZTV FOX
+http://cord-cutter.net:8080/hq3y4G/234247/121164
 #EXTINF:-1 tvg-id="CW.(WZTV-DT2).Nashville,.TN.us" tvg-name="CW 17.2" tvg-chno="17.2" group-title="Nashville OTA",CW
 http://YOUR/STREAM/wztv-17-2.m3u8
 #EXTINF:-1 tvg-id="Antenna.TV.us" tvg-name="Antenna TV 17.3" tvg-chno="17.3" group-title="Nashville OTA",Antenna TV
