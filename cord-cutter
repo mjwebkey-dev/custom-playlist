@@ -1,16 +1,16 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml" "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
 
-#EXTINF:-1 tvg-id="cbs-wtvf-nashville-tn/1883" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
+#EXTINF:-1 tvg-id="ABC.(WKRN).Nashville,.TN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
+http://cord-cutter.net:8080/hq3y4G/234247/120860
+
+#EXTINF:-1 tvg-id="CBS.(WTVF).Nashville,.TN.us" tvg-logo="https://image.roku.com/developer_channels/prod/5803673219f727fe92a3a5254dc2bb3739c42d69b90a4446e947f301de4ef120.png" tvg-name="CBS (WTVF) Nashville " group-title="USA | NEWS | REGIONALS",CBS (WTVF) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120798
 
-#EXTINF:-1 tvg-id="nbc-wsmv-nashville-tn/1846" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
+#EXTINF:-1 tvg-id="NBC.(WSMV).Nashville,.TN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" tvg-name="NBC (WSMV) Nashville " group-title="USA | NEWS | REGIONALS", NBC (WSMV) Nashville
 http://cord-cutter.net:8080/hq3y4G/234247/120799
 
-#EXTINF:-1 tvg-id="fox-wztv-nashville-tn-hd/1890" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
+#EXTINF:-1 tvg-id="FOX.(WZTV).Nashville,.TN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/LOGO_WZTV_FOX17_solid_calls.png/1920px-LOGO_WZTV_FOX17_solid_calls.png" tvg-name="FOX: NASHVILLE TN WZTV" group-title="USA | NEWS | REGIONALS",FOX: NASHVILLE TN WZTV
 http://cord-cutter.net:8080/hq3y4G/234247/121164
-
-#EXTINF:-1 tvg-id="abc-wkrn-nashville-tn/1886" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/WKRN-TV_%282016%29.svg/1200px-WKRN-TV_%282016%29.svg.png" tvg-name="ABC: NASHVILLE WKRN" group-title="USA | NEWS | REGIONALS",ABC: NASHVILLE WKRN
-http://cord-cutter.net:8080/hq3y4G/234247/120860
 
 #EXTINF:-1 tvg-id="foxsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FOX Sports 1" group-title="USA",FOX Sports 1
 http://cord-cutter.net:8080/hq3y4G/234247/46792
